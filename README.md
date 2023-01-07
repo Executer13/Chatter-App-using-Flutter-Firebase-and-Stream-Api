@@ -1,4 +1,4 @@
-# Smart Home Security System Using Flutter & Python
+# Chatter-App-using-Flutter-Firebase-and-Stream-Api
 
 ## Description
 
